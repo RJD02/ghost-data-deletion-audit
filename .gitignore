@@ -1,0 +1,15 @@
+dataset/
+output.csv
+log.txt
+code.zip
+run_diagnostics.json
+.state/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+
